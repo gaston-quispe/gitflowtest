@@ -4,7 +4,8 @@ Test de comandos
 
 **** Estrellitas ****
 
-VERSION: 0.2.0
+VERSION: 0.3.0
+Mas metadatos de la version 0.3.0
 
 abc-abc-abc
 
